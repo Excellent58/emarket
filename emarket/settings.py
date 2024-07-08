@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'compressor',
     'core',
     'item',
+    'dashboard',
 ]
 
 MIDDLEWARE = [
